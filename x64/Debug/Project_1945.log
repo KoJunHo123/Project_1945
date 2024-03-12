@@ -1,0 +1,41 @@
+﻿  MainGame.cpp
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_20240310합본 (2)\Project_1945_20240310합본\Project_1945\Player.h(29,42): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_20240310합본 (2)\Project_1945_20240310합본\Project_1945\Player.h(30,37): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_20240310합본 (2)\Project_1945_20240310합본\Project_1945\EnemyD.h(53,11): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_20240310합본 (2)\Project_1945_20240310합본\Project_1945\EnemyD.h(56,42): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_20240310합본 (2)\Project_1945_20240310합본\Project_1945\EnemyD.h(57,37): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_20240310합본 (2)\Project_1945_20240310합본\Project_1945\EnemyE.h(37,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_20240310합본 (2)\Project_1945_20240310합본\Project_1945\EnemyE.h(38,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_20240310합본 (2)\Project_1945_20240310합본\Project_1945\MainGame.cpp(10,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_20240310합본 (2)\Project_1945_20240310합본\Project_1945\MainGame.cpp(421,47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_20240310합본 (2)\Project_1945_20240310합본\Project_1945\MainGame.cpp(438,47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_20240310합본 (2)\Project_1945_20240310합본\Project_1945\MainGame.cpp(455,47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_20240310합본 (2)\Project_1945_20240310합본\Project_1945\MainGame.cpp(472,47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_20240310합본 (2)\Project_1945_20240310합본\Project_1945\MainGame.cpp(489,47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+  Project_1945.vcxproj -> C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_20240310합본 (2)\Project_1945_20240310합본\x64\Debug\Project_1945.exe

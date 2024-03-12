@@ -1,0 +1,321 @@
+﻿  pch.cpp
+  BombItem.cpp
+  Boss.cpp
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(31,42): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BombItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(32,37): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BombItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\BombItem.cpp(31,30): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BombItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\BombItem.cpp(32,29): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BombItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\BombItem.cpp(33,31): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BombItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\BombItem.cpp(34,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BombItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Boss.cpp(59,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+  Bullet.cpp
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Bullet.cpp(40,25): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Bullet.cpp(45,25): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Bullet.cpp(58,25): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Bullet.cpp(63,25): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Bullet.cpp(81,73): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Bullet.cpp(82,22): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Bullet.cpp(87,30): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Bullet.cpp(88,30): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Bullet.cpp(92,30): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Bullet.cpp(93,30): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Bullet.cpp(99,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Bullet.cpp(100,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Bullet.cpp(216,71): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Bullet.cpp(217,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Bullet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Bullet.cpp(269,15): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Bullet.cpp'을(를) 컴파일하는 중)
+  
+  CollisionMgr.cpp
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(31,42): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CollisionMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(32,37): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CollisionMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\CollisionMgr.cpp(134,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CollisionMgr.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\CollisionMgr.cpp(146,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/CollisionMgr.cpp'을(를) 컴파일하는 중)
+  
+  Enemy.cpp
+  EnemyPattern.cpp
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(31,42): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnemyPattern.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(32,37): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnemyPattern.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyD.h(53,11): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnemyPattern.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyD.h(56,42): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnemyPattern.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyD.h(57,37): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnemyPattern.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyE.h(37,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnemyPattern.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyE.h(38,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnemyPattern.cpp'을(를) 컴파일하는 중)
+  
+  EnemyStage.cpp
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(31,42): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnemyStage.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(32,37): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnemyStage.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyD.h(53,11): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnemyStage.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyD.h(56,42): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnemyStage.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyD.h(57,37): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnemyStage.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyE.h(37,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnemyStage.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyE.h(38,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/EnemyStage.cpp'을(를) 컴파일하는 중)
+  
+  InvincibleItem.cpp
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(31,42): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/InvincibleItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(32,37): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/InvincibleItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\InvincibleItem.cpp(31,30): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/InvincibleItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\InvincibleItem.cpp(32,29): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/InvincibleItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\InvincibleItem.cpp(33,31): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/InvincibleItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\InvincibleItem.cpp(34,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/InvincibleItem.cpp'을(를) 컴파일하는 중)
+  
+  Item.cpp
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Item.cpp(8,24): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Item.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Item.cpp(35,27): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Item.cpp'을(를) 컴파일하는 중)
+  
+  LifeItem.cpp
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(31,42): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LifeItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(32,37): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LifeItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\LifeItem.cpp(31,30): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LifeItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\LifeItem.cpp(32,29): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LifeItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\LifeItem.cpp(33,31): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LifeItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\LifeItem.cpp(34,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LifeItem.cpp'을(를) 컴파일하는 중)
+  
+  MainGame.cpp
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(31,42): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(32,37): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyD.h(53,11): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyD.h(56,42): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyD.h(57,37): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyE.h(37,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyE.h(38,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(10,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(381,36): warning C4244: '=': 'ULONGLONG'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(387,36): warning C4244: '=': 'ULONGLONG'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(393,36): warning C4244: '=': 'ULONGLONG'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(399,36): warning C4244: '=': 'ULONGLONG'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(405,36): warning C4244: '=': 'ULONGLONG'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(420,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(423,47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(437,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(440,47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(454,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(457,47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(471,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(474,47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(488,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\MainGame.cpp(491,47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+  Obj.cpp
+  Player.cpp
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(31,42): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(32,37): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.cpp(56,36): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.cpp(57,31): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.cpp(97,33): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.cpp(153,37): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.cpp(154,37): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.cpp(182,33): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.cpp(305,33): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.cpp(309,32): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+  PowerItem.cpp
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(31,42): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PowerItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(32,37): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PowerItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\PowerItem.cpp(31,30): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PowerItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\PowerItem.cpp(32,29): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PowerItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\PowerItem.cpp(33,31): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PowerItem.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\PowerItem.cpp(34,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PowerItem.cpp'을(를) 컴파일하는 중)
+  
+  Project_1945.cpp
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(31,42): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Project_1945.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\Player.h(32,37): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Project_1945.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyD.h(53,11): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Project_1945.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyD.h(56,42): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Project_1945.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyD.h(57,37): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Project_1945.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyE.h(37,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Project_1945.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyE.h(38,21): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Project_1945.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyStage.cpp(83): warning C4715: 'CEnemyStage::Stage3': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyStage.cpp(57): warning C4715: 'CEnemyStage::Stage2': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Project_1945\EnemyStage.cpp(31): warning C4715: 'CEnemyStage::Stage1': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Project_1945.vcxproj -> C:\Users\wnsgh\OneDrive\Documents\카카오톡 받은 파일\Project_1945_찐찐최종\Debug\Project_1945.exe
